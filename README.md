@@ -1,0 +1,2 @@
+# adblocker
+This blocks ads
