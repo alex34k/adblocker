@@ -1,2 +1,2 @@
 # adblocker
-This blocks ads
+This blocks ads. But I recommend to use TamperMonkey extension browser.
